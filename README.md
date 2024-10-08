@@ -45,7 +45,7 @@ npm run dev
 
 ## Usage
 
-Once the local server is running, you can access the form in your browser at ```http://localhost:5173/payment-form/```. The form allows users to:
+Once the local server is running, you can access the form in your browser at ```http://localhost:5173```. The form allows users to:
 
 - Choose a payment method.
 - Fill in personal details.
