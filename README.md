@@ -28,7 +28,7 @@ Clone this repository using the steps below.
 
 ```bash
 # Clone repository
-git clone https://github.com/riizkyyrmdnn/payment-form.git
+git clone https://github.com/ryzmdn/payment-form.git
 
 # Change directory folder
 cd payment-form
