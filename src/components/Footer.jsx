@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="w-full bg-white border-t border-gray-200">
       <div className="mx-auto max-w-7xl px-6 py-5 md:flex md:items-center md:justify-between lg:px-8">
         <div className="flex justify-center space-x-6 md:order-2">
-          <a href="https://github.com/riizkyyrmdnn/payment-form" target="_blank" className="text-gray-400 hover:text-gray-500">
+          <a href="https://github.com/ryzmdn/payment-form" target="_blank" className="text-gray-400 hover:text-gray-500">
             <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true" className="w-6 h-6">
               <path
                 fillRule="evenodd"
